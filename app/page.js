@@ -1,4 +1,4 @@
-const WHATSAPP_NUMBER = '27000000000' // TODO: replace with real WhatsApp Business number, no + or leading 0s
+const WHATSAPP_NUMBER = '27783934335' 
 const FACEBOOK_URL = 'https://facebook.com/skylinetradingco' // TODO: replace with real page
 
 const waLink = (text) =>
@@ -58,7 +58,7 @@ export default function Home() {
           <div className="hero-eyebrow">South Africa &nbsp;→&nbsp; Zimbabwe</div>
           <h1>We print it, we brand it, we get it there.</h1>
           <p>
-            Skyline Trading Co. handles custom clothing printing, banner making, and the
+            Skyline Trading Co handles custom clothing printing, banner making, and the
             sourcing and cross-border shipping of goods between South Africa and Zimbabwe —
             coordinated through a WhatsApp community you can actually reach a person on.
           </p>
@@ -90,7 +90,7 @@ export default function Home() {
               <h3>Clothing printing</h3>
               <p>
                 Custom t-shirts, workwear, and event merch, printed to order. Send us your
-                design or logo and we'll quote a run size and turnaround.
+                design or logo and we&apos;ll quote a run size and turnaround.
               </p>
               <div className="service-meta">Quoted per run</div>
             </div>
@@ -121,7 +121,7 @@ export default function Home() {
           <div className="section-head">
             <div className="section-kicker">How it works</div>
             <h2>From enquiry to collection</h2>
-            <p>The same process whether you're ordering print work or a shipment.</p>
+            <p>The same process whether you &apos;re ordering print work or a shipment.</p>
           </div>
           <div className="process-list">
             <div className="process-step">
