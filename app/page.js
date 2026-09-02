@@ -177,21 +177,21 @@ export default function Home() {
           </div>
           <div className="testimonials">
             <div className="stub">
-              <p>"Ordered banners for a shop opening and they arrived printed and ready two days before we needed them."</p>
+              <p>&ldquo;Ordered banners for a shop opening and they arrived printed and ready two days before we needed them.&rdquo;</p>
               <div className="stub-meta">
                 <b>Tendai M.</b>
                 <span>Bulawayo</span>
               </div>
             </div>
             <div className="stub">
-              <p>"Easiest way I've found to get stock from South Africa without dealing with a courier myself."</p>
+              <p>&ldquo;Easiest way I&apos;ve found to get stock from South Africa without dealing with a courier myself.&rdquo;</p>
               <div className="stub-meta">
                 <b>Rudo K.</b>
                 <span>Harare</span>
               </div>
             </div>
             <div className="stub">
-              <p>"Printed our staff t-shirts for a good price and kept us updated on WhatsApp the whole way."</p>
+              <p>&ldquo;Printed our staff t-shirts for a good price and kept us updated on WhatsApp the whole way.&rdquo;</p>
               <div className="stub-meta">
                 <b>Farai N.</b>
                 <span>Mutare</span>
